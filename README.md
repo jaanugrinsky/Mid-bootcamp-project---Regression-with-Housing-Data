@@ -34,13 +34,13 @@ A full work-through of an end-to-end machine learning project with documentation
 
 - Python folder that contains the Python work file for the project, along with a subfolder containing the dataset used.
 - SQL folder that contains the sql file for the query work.
-- Tableau folder that contains the Tableau Workbook file for the expolratory, visual, and analytical work along with a pdf copy of a dashboard .
+- Tableau folder that contains the Tableau Workbook file for the expolratory, visual, and analytical work along with a pdf copy of a dashboard.
 - Presentation folder containing a PDF version of the presentation.
 
 ## Links
 
 [Mid-Bootcamp Project Regression Repository](https://github.com/jaanugrinsky/Mid-bootcamp-project---Regression-with-Housing-Data)
 
-[Slides]()
+[Slides](https://www.canva.com/design/DAEN94_8elA/YTS3CwrQ5rJj-TajlVKcOg/view?utm_content=DAEN94_8elA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 For more info please feel free to contact me via [E-mail](Jaan.Ugrinsy@googlemail.com).
